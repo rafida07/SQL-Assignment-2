@@ -1,4 +1,4 @@
-# SQL-Assignment-2SQL Employee Database Assignment
+# SQL-Assignment-2 SQL Employee Database Assignment
 
 Project Overview
 
